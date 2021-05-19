@@ -1,1 +1,1 @@
-# https://github.com/V-sanjanaareddy/Tic-Tac-Toe.github.io.git
+#  https://v-sanjanaareddy.github.io/Tic-Tac-Toe.github.io/
